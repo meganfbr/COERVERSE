@@ -9,27 +9,27 @@ const members = [
   {
     name: "MARTIN",
     slug: "martin",
-    image: "/image/members/martin.jpg",
+    image: "/image/MARTIN/MARTIN0.jpg",
   },
   {
     name: "JAMES",
     slug: "james",
-    image: "/image/members/james.jpg",
+    image: "/image/JMS/JAMES0.jpg",
   },
   {
     name: "JUHOON",
     slug: "juhoon",
-    image: "/image/members/juhoon.jpg",
+    image: "/image/JUHOON/JUHOON0.jpg",
   },
   {
     name: "SEONGHYEON",
     slug: "seonghyeon",
-    image: "/image/members/seonghyeon.jpg",
+    image: "/image/SEAN/SEAN0.jpg",
   },
   {
     name: "KEONHO",
     slug: "keonho",
-    image: "/image/members/keonho.jpg",
+    image: "/image/KEONHO/KEONHO1.jpg",
   },
 ];
 
@@ -93,7 +93,7 @@ export default function CastPage() {
 
               <div className="relative aspect-square overflow-hidden bg-[#DDDDDD]">
                 <Image
-                  src="/image/cast/cast-group.jpg"
+                  src="/image/Cortis/img6.jpg"
                   alt="CORTIS group editorial portrait"
                   fill
                   priority

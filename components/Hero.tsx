@@ -15,7 +15,7 @@ export default function Hero() {
         {/* Group photo */}
         <div className="absolute inset-y-0 right-0 z-0 w-full md:w-[68%]">
           <Image
-            src="/image/hero/cortis-group.svg"
+            src="/image/hero/cortis-group.svg.svg"
             alt="CORTIS group editorial"
             fill
             priority
