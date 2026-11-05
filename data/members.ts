@@ -114,8 +114,9 @@ export const members: Record<string, Member> = {
 
     candidPhotos: [
       "/image/CARD/JAMES/1.png",
-      "/image/candid/martin/2.jpg",
-      "/image/candid/martin/3.jpg",
+      "/image/CARD/JAMES/2.png",
+      "/image/CARD/JAMES/3.png",
+      "/image/CARD/JAMES/4.png",
     ],
 
   },
@@ -155,9 +156,10 @@ export const members: Record<string, Member> = {
       },
     ],
     candidPhotos: [
-      "/image/candid/martin/1.jpg",
-      "/image/candid/martin/2.jpg",
-      "/image/candid/martin/3.jpg",
+      "/image/CARD/JUHOON/1.png",
+      "/image/CARD/JUHOON/2.png",
+      "/image/CARD/JUHOON/3.png",
+      "/image/CARD/JUHOON/4.png",
     ],
   },
 
@@ -195,9 +197,10 @@ export const members: Record<string, Member> = {
       },
     ],
     candidPhotos: [
-      "/image/candid/martin/1.jpg",
-      "/image/candid/martin/2.jpg",
-      "/image/candid/martin/3.jpg",
+      "/image/CARD/SEONGHYEON/1.png",
+      "/image/CARD/SEONGHYEON/2.png",
+      "/image/CARD/SEONGHYEON/3.png",
+      "/image/CARD/SEONGHYEON/4.png",
     ],
   },
 
@@ -235,9 +238,10 @@ export const members: Record<string, Member> = {
       },
     ],
     candidPhotos: [
-      "/image/candid/martin/1.jpg",
-      "/image/candid/martin/2.jpg",
-      "/image/candid/martin/3.jpg",
+      "/image/CARD/SEONGHYEON/1.png",
+      "/image/CARD/SEONGHYEON/2.png",
+      "/image/CARD/SEONGHYEON/3.png",
+      "/image/CARD/SEONGHYEON/4.png",
     ],
   },
 };
