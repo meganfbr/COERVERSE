@@ -59,16 +59,22 @@ export default async function VideoDetailPage({
             </p>
           </div>
 
-          {/* YouTube player */}
+          {/* Video Player */}
           <div className="relative mt-12 aspect-video overflow-hidden bg-black">
-            <iframe
-              src={`https://www.youtube-nocookie.com/embed/${video.youtubeId}`}
-              title={video.title}
-              className="absolute inset-0 h-full w-full"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerPolicy="strict-origin-when-cross-origin"
-              allowFullScreen
-            />
+            {video.youtubeId ? (
+              <iframe
+                src={`https://www.youtube-nocookie.com/embed/${video.youtubeId}`}
+                title={video.title}
+                className="absolute inset-0 h-full w-full"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerPolicy="strict-origin-when-cross-origin"
+                allowFullScreen
+              />
+            ) : (
+              <div className="flex h-full items-center justify-center text-sm font-bold text-white">
+                VIDEO COMING SOON
+              </div>
+            )}
           </div>
 
           {/* External link */}
@@ -76,16 +82,18 @@ export default async function VideoDetailPage({
             <span className="text-xs font-bold tracking-widest">
               CORTIS / OFFICIAL YOUTUBE
             </span>
-
-            <a
-              href={`https://www.youtube.com/watch?v=${video.youtubeId}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 text-xs font-bold text-[#2854F4]"
-            >
-              WATCH ON YOUTUBE
-              <ArrowUpRight size={16} />
-            </a>
+                         
+              {video.youtubeId && (
+                <a
+                  href={`https://www.youtube.com/watch?v=${video.youtubeId}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 text-xs font-bold text-[#2854F4]"
+                >
+                  WATCH ON YOUTUBE
+                  <ArrowUpRight size={16} />
+                </a>
+              )}
           </div>
 
           {/* Return */}

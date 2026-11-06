@@ -102,7 +102,7 @@ export default function Footer() {
 
         {/* Bottom */}
         <div className="mt-14 flex flex-col justify-between gap-4 border-t border-white/20 pt-6 text-[10px] tracking-wide text-[#888888] md:flex-row">
-          <p>© {new Date().getFullYear()} COERVERSE. FANMADE WITH LOVE.</p>
+          <p>© 2026 COERVERSE. FANMADE WITH LOVE.</p>
 
           <p className="max-w-[440px]">
             UNOFFICIAL FANMADE PROJECT. NOT AFFILIATED WITH

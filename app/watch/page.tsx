@@ -1,124 +1,114 @@
 
+import Image from "next/image";
 import Link from "next/link";
 import { ArrowUpRight, Play } from "lucide-react";
 
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
-import { videos } from "../../data/videos";
+import WatchGallery from "../../components/WatchGallery";
+import WatchVideoArchive from "../../components/WatchVideoArchive";
 
 export default function WatchPage() {
   return (
     <>
       <Navbar />
 
-      <main className="min-h-screen bg-[#F5F3EE] text-[#111111]">
-        <div className="mx-auto max-w-[1440px] px-6 py-12 md:px-12">
+      <main className="bg-[#F5F3EE] text-[#111111]">
 
-          {/* Editorial header */}
-          <div className="flex flex-wrap justify-between gap-4 text-[10px] font-bold tracking-widest">
-            <span>
-              INDEPENDENT FANMADE FASHION & MUSIC ARCHIVE
-            </span>
-            <span>ISSUE 003 / WATCH</span>
-          </div>
+        {/* Editorial Header */}
+        <section className="px-6 pb-20 pt-8 md:px-12">
+          <div className="mx-auto max-w-[1440px]">
 
-          {/* Title */}
-          <section className="mt-16 border-b border-black pb-12">
-            <p className="text-xs font-bold tracking-widest">
-              CHAPTER 03 / MOVING IMAGES
+            <div className="flex flex-wrap items-center justify-between gap-3 text-[11px] font-bold">
+              <span>
+                INDEPENDENT FANMADE FASHION & MUSIC ARCHIVE / 2026
+              </span>
+              <span>ISSUE 001 / WATCH</span>
+            </div>
+
+            <p className="mt-8 text-xs font-bold tracking-wide">
+              CHAPTER 03 / MOVING IMAGE ARCHIVE
             </p>
 
-            <h1 className="mt-6 text-[clamp(5rem,12vw,11rem)] font-black leading-none tracking-[-0.07em]">
-              WATCH.
+            <h1 className="mt-10 text-[clamp(3.8rem,9vw,9rem)] font-black leading-none tracking-[-0.06em]">
+              THE SCREEN.
             </h1>
 
-            <p className="mt-8 text-lg text-[#777777]">
-              Music videos. Visual stories. Moments beyond the sound.
+            <p className="mt-10 text-base text-[#888888] md:mt-14">
+              Performance, music videos and everything in motion.
             </p>
-          </section>
 
-          {/* Video archive */}
-          <section className="py-16">
-            <div className="mb-10 flex flex-wrap items-end justify-between gap-4">
-              <div>
-                <p className="text-xs font-bold tracking-widest">
-                  01 / VIDEO ARCHIVE
+          </div>
+        </section>
+
+        {/* Featured Section */}
+        <section className="bg-[#111111] px-6 py-16 text-white md:px-12 md:py-20">
+          <div className="mx-auto max-w-[1440px]">
+
+            <p className="mb-8 text-[11px] font-bold">
+              NOW SHOWING / OFFICIAL CONTENT
+            </p>
+
+            <div className="grid grid-cols-1 items-center gap-8 lg:grid-cols-12">
+
+              {/* Featured Image */}
+              <Link
+                href="/watch/featured-mv"
+                className="group relative block aspect-video overflow-hidden bg-[#292929] lg:col-span-8"
+              >
+                <Image
+                  src="/image/cortis/imgv1.jpg"
+                  alt="CORTIS featured music video"
+                  fill
+                  priority
+                  sizes="(max-width: 1024px) 100vw, 66vw"
+                  className="object-cover transition-transform duration-500 group-hover:scale-105"
+                />
+
+                <div className="absolute inset-0 bg-black/20 transition-colors group-hover:bg-black/40" />
+
+                <span className="absolute left-4 top-4 text-[10px] font-bold text-white">
+                  EDITORIAL PHOTO / FEATURED MV
+                </span>
+
+                <span className="absolute bottom-5 left-5 flex items-center gap-3 text-xs font-bold">
+                  <Play size={17} fill="currentColor" />
+                  PLAY OFFICIAL MUSIC VIDEO
+                  <ArrowUpRight size={16} />
+                </span>
+              </Link>
+
+              {/* Right Editorial Text */}
+              <div className="lg:col-span-4">
+                <h2 className="text-[clamp(3rem,5vw,5.5rem)] font-black leading-[0.95] tracking-[-0.05em]">
+                  WATCH
+                  <br />
+                  THE
+                  <br />
+                  STORY.
+                </h2>
+
+                <p className="mt-6 max-w-[330px] text-base leading-relaxed text-[#CCCCCC]">
+                  Official music videos, performance films,
+                  dance practices, and behind the scenes.
                 </p>
 
-                <h2 className="mt-4 text-4xl font-black md:text-6xl">
-                  THE SCREEN.
-                </h2>
+                <Link
+                  href="/watch/featured-mv"
+                  className="mt-8 inline-flex items-center gap-2 border-b border-white pb-2 text-xs font-bold hover:text-[#B7EF54]"
+                >
+                  WATCH THE FEATURED MV
+                  <ArrowUpRight size={16} />
+                </Link>
               </div>
 
-              <span className="text-xs font-bold">
-                {String(videos.length).padStart(2, "0")} VIDEOS
-              </span>
             </div>
+          </div>
+        </section>
 
-            <div className="grid grid-cols-1 gap-8 md:grid-cols-2">
-              {videos.map((video) => (
-                <Link
-                  key={video.slug}
-                  href={`/watch/${video.slug}`}
-                  className="group block"
-                >
-                  {/* Thumbnail */}
-                  <div className="relative aspect-video overflow-hidden bg-[#222222]">
-
-                    <div
-                      className="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105"
-                      style={{
-                        backgroundImage:
-                          `url(https://i.ytimg.com/vi/${video.youtubeId}/hqdefault.jpg)`,
-                      }}
-                    />
-
-                    <div className="absolute inset-0 bg-black/20 transition-colors group-hover:bg-black/40" />
-
-                    {/* Play icon */}
-                    <span className="absolute inset-0 flex items-center justify-center">
-                      <span className="flex h-16 w-16 items-center justify-center rounded-full bg-white text-black transition-transform group-hover:scale-110">
-                        <Play size={27} fill="currentColor" />
-                      </span>
-                    </span>
-
-                    <span className="absolute left-4 top-4 bg-black px-3 py-2 text-[10px] font-bold text-white">
-                      {video.number} / {video.category}
-                    </span>
-                  </div>
-
-                  {/* Card description */}
-                  <div className="mt-5 flex items-start justify-between gap-4 border-t border-black pt-4">
-                    <div>
-                      <p className="text-[10px] font-bold tracking-widest text-[#777777]">
-                        CORTIS / MOVING IMAGES
-                      </p>
-
-                      <h3 className="mt-3 text-2xl font-black tracking-tight md:text-3xl">
-                        {video.title}
-                      </h3>
-
-                      <p className="mt-3 text-sm text-[#777777]">
-                        {video.description}
-                      </p>
-
-                      <span className="mt-6 inline-flex items-center gap-2 text-xs font-bold text-[#2854F4]">
-                        WATCH VIDEO
-                        <ArrowUpRight size={16} />
-                      </span>
-                    </div>
-
-                    <ArrowUpRight
-                      size={24}
-                      className="shrink-0 transition-transform group-hover:-translate-y-1 group-hover:translate-x-1"
-                    />
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </section>
-
-        </div>
+        {/* Filterable Video Cards */}
+        <WatchGallery />
+        <WatchVideoArchive />
       </main>
 
       <Footer />
