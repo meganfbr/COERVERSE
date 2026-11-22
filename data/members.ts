@@ -197,10 +197,10 @@ export const members: Record<string, Member> = {
       },
     ],
     candidPhotos: [
-      "/image/CARD/SEONGHYEON/1.png",
-      "/image/CARD/SEONGHYEON/2.png",
-      "/image/CARD/SEONGHYEON/3.png",
-      "/image/CARD/SEONGHYEON/4.png",
+      "/image/CARD/KEONHO/1.png",
+      "/image/CARD/KEONHO/2.png",
+      "/image/CARD/KEONHO/3.png",
+      "/image/CARD/KEONHO/4.png",
     ],
   },
 
@@ -238,10 +238,10 @@ export const members: Record<string, Member> = {
       },
     ],
     candidPhotos: [
-      "/image/CARD/SEONGHYEON/1.png",
-      "/image/CARD/SEONGHYEON/2.png",
-      "/image/CARD/SEONGHYEON/3.png",
-      "/image/CARD/SEONGHYEON/4.png",
+      "/image/CARD/KEONHO/1.png",
+      "/image/CARD/KEONHO/2.png",
+      "/image/CARD/KEONHO/3.png",
+      "/image/CARD/KEONHO/4.png",
     ],
   },
 };

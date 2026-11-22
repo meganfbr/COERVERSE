@@ -1,0 +1,794 @@
+[
+  {
+    "slug": "acai",
+    "category": "MV",
+    "number": "01",
+    "youtubeId": "nCElUD0jvgo",
+    "currentTitle": "ACAI",
+    "fetchedTitle": "CORTIS (코르티스) 'ACAI' Official MV",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "redred",
+    "category": "MV",
+    "number": "02",
+    "youtubeId": "U6BDbXIah-Y",
+    "currentTitle": "REDRED",
+    "fetchedTitle": "CORTIS (코르티스) 'REDRED' Official MV",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "blue-lips",
+    "category": "MV",
+    "number": "03",
+    "youtubeId": "hOIY3OhvD94",
+    "currentTitle": "Blue Lips",
+    "fetchedTitle": "CORTIS (코르티스) 'Blue Lips' Official MV",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "what-you-want-original",
+    "category": "MV",
+    "number": "04",
+    "youtubeId": "of-FAob3X9w",
+    "currentTitle": "What You Want — Original Ver.",
+    "fetchedTitle": "CORTIS (코르티스) 'What You Want' MV (Original Ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "tnt",
+    "category": "MV",
+    "number": "05",
+    "youtubeId": "kRpaqR5sbf0",
+    "currentTitle": "TNT",
+    "fetchedTitle": "CORTIS (코르티스) 'TNT' Official MV",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "mv-06",
+    "category": "MV",
+    "number": "06",
+    "youtubeId": "-fTvZfQoF-w",
+    "currentTitle": "MV ARCHIVE 06",
+    "fetchedTitle": "CORTIS (코르티스) 'GO!' Conceptual Performance Film",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "what-you-want",
+    "category": "MV",
+    "number": "07",
+    "youtubeId": "e2OpbOv_JiQ",
+    "currentTitle": "What You Want — Official MV",
+    "fetchedTitle": "CORTIS (코르티스) 'What You Want' Official MV",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "mv-08",
+    "category": "MV",
+    "number": "08",
+    "youtubeId": "7112WTKl45Y",
+    "currentTitle": "MV ARCHIVE 08",
+    "fetchedTitle": "CORTIS (코르티스) 'REDRED' MV (Original Ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "joyride",
+    "category": "MV",
+    "number": "09",
+    "youtubeId": "8QZeXvOjgGE",
+    "currentTitle": "JoyRide",
+    "fetchedTitle": "CORTIS (코르티스) 'JoyRide' Official MV",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "mv-10",
+    "category": "MV",
+    "number": "10",
+    "youtubeId": "a1vHjBy85TU",
+    "currentTitle": "MV ARCHIVE 10",
+    "fetchedTitle": "CORTIS (코르티스) 'REDRED' Conceptual Performance Film",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "mv-11",
+    "category": "MV",
+    "number": "11",
+    "youtubeId": "rdB7ip3zQqg",
+    "currentTitle": "MV ARCHIVE 11",
+    "fetchedTitle": "CORTIS (코르티스) 'FaSHioN' MV (Original Ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "mv-12",
+    "category": "MV",
+    "number": "12",
+    "youtubeId": "6MYB61hUaFg",
+    "currentTitle": "MV ARCHIVE 12",
+    "fetchedTitle": "CORTIS (코르티스) 'What You Want' Conceptual Performance Film",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "featured-mv",
+    "category": "MV",
+    "number": "13",
+    "youtubeId": "Oy8osuFki7c",
+    "currentTitle": "FEATURED MUSIC VIDEO",
+    "fetchedTitle": "CORTIS (코르티스) 'GO!' Official MV",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "tnt-performance-film",
+    "category": "MV",
+    "number": "14",
+    "youtubeId": "XgmdslsEJ1M",
+    "currentTitle": "TNT — Conceptual Performance Film",
+    "fetchedTitle": "CORTIS (코르티스) 'TNT' Conceptual Performance Film",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-01",
+    "category": "DANCE",
+    "number": "01",
+    "youtubeId": "kuVNutQeBBA",
+    "currentTitle": "DANCE ARCHIVE 01",
+    "fetchedTitle": "CORTIS (코르티스) 'REDRED' Dance Practice (Fix ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-02",
+    "category": "DANCE",
+    "number": "02",
+    "youtubeId": "ysg6GVlzz9Y",
+    "currentTitle": "DANCE ARCHIVE 02",
+    "fetchedTitle": "CORTIS (코르티스) ‘ACAI’ Dance Practice (Fix ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-03",
+    "category": "DANCE",
+    "number": "03",
+    "youtubeId": "6vewvgkj4us",
+    "currentTitle": "DANCE ARCHIVE 03",
+    "fetchedTitle": "CORTIS (코르티스) ‘TNT’ Dance Practice (Fix ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-04",
+    "category": "DANCE",
+    "number": "04",
+    "youtubeId": "qSYNCpb0Bzw",
+    "currentTitle": "DANCE ARCHIVE 04",
+    "fetchedTitle": "CORTIS(코르티스) 'REDRED' (4K) | STUDIO CHOOM ORIGINAL",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-05",
+    "category": "DANCE",
+    "number": "05",
+    "youtubeId": "V7LxVsIo8vg",
+    "currentTitle": "DANCE ARCHIVE 05",
+    "fetchedTitle": "CORTIS (코르티스) 'Deja Vu' Dance Practice | 원곡 : TOMORROW X TOGETHER (투모로우바이투게더)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-06",
+    "category": "DANCE",
+    "number": "06",
+    "youtubeId": "u5IhtyOsEzE",
+    "currentTitle": "DANCE ARCHIVE 06",
+    "fetchedTitle": "CORTIS (코르티스) ‘FaSHioN' Dance Practice (Fix ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-07",
+    "category": "DANCE",
+    "number": "07",
+    "youtubeId": "daSFSbDyi9A",
+    "currentTitle": "DANCE ARCHIVE 07",
+    "fetchedTitle": "CORTIS (코르티스) 'What You Want' Dance Practice (Fix ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-08",
+    "category": "DANCE",
+    "number": "08",
+    "youtubeId": "8trNT1WjIg0",
+    "currentTitle": "DANCE ARCHIVE 08",
+    "fetchedTitle": "(Full Focused) CORTIS(코르티스) 'REDRED' (4K) | STUDIO CHOOM ORIGINAL",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-09",
+    "category": "DANCE",
+    "number": "09",
+    "youtubeId": "gSm-eTRl9JE",
+    "currentTitle": "DANCE ARCHIVE 09",
+    "fetchedTitle": "CORTIS (코르티스) ‘GO!’ Dance Practice (Fix ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-10",
+    "category": "DANCE",
+    "number": "10",
+    "youtubeId": "n5IJYhE78t4",
+    "currentTitle": "DANCE ARCHIVE 10",
+    "fetchedTitle": "CORTIS(코르티스) 'What You Want' (4K) | STUDIO CHOOM ORIGINAL",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-11",
+    "category": "DANCE",
+    "number": "11",
+    "youtubeId": "T-76o4XpGh8",
+    "currentTitle": "DANCE ARCHIVE 11",
+    "fetchedTitle": "CORTIS (코르티스) 'MIC Drop' Live Practice | 원곡 : BTS (방탄소년단)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-12",
+    "category": "DANCE",
+    "number": "12",
+    "youtubeId": "-6sM0e50_oI",
+    "currentTitle": "DANCE ARCHIVE 12",
+    "fetchedTitle": "CORTIS (코르티스) ‘FaSHioN' Dance Practice (Moving ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-13",
+    "category": "DANCE",
+    "number": "13",
+    "youtubeId": "xfDwI_csntE",
+    "currentTitle": "DANCE ARCHIVE 13",
+    "fetchedTitle": "CORTIS (코르티스) ‘GO!’ Dance Practice (Moving ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "dance-14",
+    "category": "DANCE",
+    "number": "14",
+    "youtubeId": "LaFEhyMF-ss",
+    "currentTitle": "DANCE ARCHIVE 14",
+    "fetchedTitle": "CORTIS (코르티스) ‘What You Want’ Dance Practice (Moving ver.)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-01",
+    "category": "PERFORMANCE",
+    "number": "01",
+    "youtubeId": "kI-ntAp2vPI",
+    "currentTitle": "PERFORMANCE ARCHIVE 01",
+    "fetchedTitle": "CORTIS (코르티스) 'MONEYMONEYMONEY' Live Performance @ PYPD BIRTHDAY PARTY",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-02",
+    "category": "PERFORMANCE",
+    "number": "02",
+    "youtubeId": "592Q6lyEvag",
+    "currentTitle": "PERFORMANCE ARCHIVE 02",
+    "fetchedTitle": "MIC Drop (Steve Aoki Remix) (원곡: BTS) - CORTIS [2025 뮤직뱅크 글로벌페스티벌 IN JAPAN] | KBS 251230 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-03",
+    "category": "PERFORMANCE",
+    "number": "03",
+    "youtubeId": "501FXu_Cdd8",
+    "currentTitle": "PERFORMANCE ARCHIVE 03",
+    "fetchedTitle": "CORTIS (코르티스) 'PACK IT UP' Live Performance @ PYPD BIRTHDAY PARTY",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-04",
+    "category": "PERFORMANCE",
+    "number": "04",
+    "youtubeId": "_jsA3F6jLTY",
+    "currentTitle": "PERFORMANCE ARCHIVE 04",
+    "fetchedTitle": "[HOT DEBUT🔥] CORTIS コルティス 코르티스 - GO! [Music Bank] | KBS WORLD TV 250822",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-05",
+    "category": "PERFORMANCE",
+    "number": "05",
+    "youtubeId": "_k0mhOl5zOc",
+    "currentTitle": "PERFORMANCE ARCHIVE 05",
+    "fetchedTitle": "CORTIS (코르티스) Full Live Performance @ ROCK IN JAPAN FESTIVAL 2026",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-06",
+    "category": "PERFORMANCE",
+    "number": "06",
+    "youtubeId": "MoZbwLzg47w",
+    "currentTitle": "PERFORMANCE ARCHIVE 06",
+    "fetchedTitle": "CORTIS 코르티스 'TNT'｜On the Spot｜온더스팟",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-07",
+    "category": "PERFORMANCE",
+    "number": "07",
+    "youtubeId": "MrY3EwjBU5U",
+    "currentTitle": "PERFORMANCE ARCHIVE 07",
+    "fetchedTitle": "'최초 공개' CORTIS - ACAI #엠카운트다운 EP.929 | Mnet 260521 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-08",
+    "category": "PERFORMANCE",
+    "number": "08",
+    "youtubeId": "HpXgaOucHfk",
+    "currentTitle": "PERFORMANCE ARCHIVE 08",
+    "fetchedTitle": "[MOVE TO PERFORMANCE] CORTIS(코르티스) - FaSHioN (4K)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-09",
+    "category": "PERFORMANCE",
+    "number": "09",
+    "youtubeId": "iyKA7tSb9KI",
+    "currentTitle": "PERFORMANCE ARCHIVE 09",
+    "fetchedTitle": "YOUNGCREATORCREW - CORTIS [뮤직뱅크/Music Bank] | KBS 260605 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-10",
+    "category": "PERFORMANCE",
+    "number": "10",
+    "youtubeId": "ieEwm_o18Ls",
+    "currentTitle": "PERFORMANCE ARCHIVE 10",
+    "fetchedTitle": "데뷔 2일차에 LIVE로 떼창 말아준 GO!AT한 무대🎤✨｜코르티스(CORTIS) - GO!｜공간음향🎧라이브｜SoundBOMB360˚[SUB]",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-11",
+    "category": "PERFORMANCE",
+    "number": "11",
+    "youtubeId": "7M-Q8D-19cI",
+    "currentTitle": "PERFORMANCE ARCHIVE 11",
+    "fetchedTitle": "GO! - CORTIS | SBS 250921 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-12",
+    "category": "PERFORMANCE",
+    "number": "12",
+    "youtubeId": "ELPeHSrMd8M",
+    "currentTitle": "PERFORMANCE ARCHIVE 12",
+    "fetchedTitle": "[2025 MBC 가요대제전] CORTIS (코르티스) - Deja Vu + FaSHioN, MBC 251231 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-13",
+    "category": "PERFORMANCE",
+    "number": "13",
+    "youtubeId": "7ComIC5ZEb0",
+    "currentTitle": "PERFORMANCE ARCHIVE 13",
+    "fetchedTitle": "'SPECIAL STAGE' CORTIS - JoyRide #엠카운트다운 EP.915 | Mnet 260205 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-14",
+    "category": "PERFORMANCE",
+    "number": "14",
+    "youtubeId": "M_8rM9wtZFw",
+    "currentTitle": "PERFORMANCE ARCHIVE 14",
+    "fetchedTitle": "[원테이크] 코르티스 (CORTIS ONETAKE) 'FaSHioN' Bonus Ver. @뮤직뱅크글로벌페스티벌 251230",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-15",
+    "category": "PERFORMANCE",
+    "number": "15",
+    "youtubeId": "OPPowVJ7B6c",
+    "currentTitle": "PERFORMANCE ARCHIVE 15",
+    "fetchedTitle": "[#AAA2025] CORTIS(코르티스) -‘GO!+What You Want’ Broadcast Stage | Official Video",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-16",
+    "category": "PERFORMANCE",
+    "number": "16",
+    "youtubeId": "MTRe479iM8E",
+    "currentTitle": "PERFORMANCE ARCHIVE 16",
+    "fetchedTitle": "[#2025MAMA] WINNERS’ ALL-TIME STAGE 🏆 CORTIS",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-17",
+    "category": "PERFORMANCE",
+    "number": "17",
+    "youtubeId": "kPYmxdHgw4Y",
+    "currentTitle": "PERFORMANCE ARCHIVE 17",
+    "fetchedTitle": "CORTIS (코르티스) - TNT | Show! MusicCore | MBC260509방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-18",
+    "category": "PERFORMANCE",
+    "number": "18",
+    "youtubeId": "QJAe0tYxTeY",
+    "currentTitle": "PERFORMANCE ARCHIVE 18",
+    "fetchedTitle": "CORTIS - MONEYMONEYMONEY | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.951 | Mnet 261028 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-19",
+    "category": "PERFORMANCE",
+    "number": "19",
+    "youtubeId": "x3O94qq9kOU",
+    "currentTitle": "PERFORMANCE ARCHIVE 19",
+    "fetchedTitle": "[Store Link Live] CORTIS (코르티스) - GO! | 스토어링크 라이브 | 스.링.라 | Live Performance | GOGOSING",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-20",
+    "category": "PERFORMANCE",
+    "number": "20",
+    "youtubeId": "PC-lfjlJUBA",
+    "currentTitle": "PERFORMANCE ARCHIVE 20",
+    "fetchedTitle": "CORTIS - REDRED | M COUNTDOWN : PLAY FESTA #엠카운트다운 EP.951 | Mnet 261028 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-21",
+    "category": "PERFORMANCE",
+    "number": "21",
+    "youtubeId": "esx3YIFwuaA",
+    "currentTitle": "PERFORMANCE ARCHIVE 21",
+    "fetchedTitle": "CORTIS (코르티스) - ACAI | Show! MusicCore | MBC260530방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-22",
+    "category": "PERFORMANCE",
+    "number": "22",
+    "youtubeId": "koED8KSXfeo",
+    "currentTitle": "PERFORMANCE ARCHIVE 22",
+    "fetchedTitle": "[#2025MAMA] CORTIS - GO! + FaSHioN | Mnet 251129 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "performance-23",
+    "category": "PERFORMANCE",
+    "number": "23",
+    "youtubeId": "rREZviPAdM8",
+    "currentTitle": "PERFORMANCE ARCHIVE 23",
+    "fetchedTitle": "'최초 공개' CORTIS - REDRED #엠카운트다운 EP.925 | Mnet 260423 방송",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-01",
+    "category": "BEHIND",
+    "number": "01",
+    "youtubeId": "i5_O0buoPxI",
+    "currentTitle": "BEHIND THE SCENES 01",
+    "fetchedTitle": "time to debut",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-02",
+    "category": "BEHIND",
+    "number": "02",
+    "youtubeId": "efGuRedKxmM",
+    "currentTitle": "BEHIND THE SCENES 02",
+    "fetchedTitle": "1주년 티꾸",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-03",
+    "category": "BEHIND",
+    "number": "03",
+    "youtubeId": "JDRYfo1nABY",
+    "currentTitle": "BEHIND THE SCENES 03",
+    "fetchedTitle": "빨간티 빨간티 fit check",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-04",
+    "category": "BEHIND",
+    "number": "04",
+    "youtubeId": "7m09XumTnlc",
+    "currentTitle": "BEHIND THE SCENES 04",
+    "fetchedTitle": "Teezo: Touchdown in Seoul",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-05",
+    "category": "BEHIND",
+    "number": "05",
+    "youtubeId": "Xq46_fQcVzg",
+    "currentTitle": "BEHIND THE SCENES 05",
+    "fetchedTitle": "Chuseok Cooking",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-06",
+    "category": "BEHIND",
+    "number": "06",
+    "youtubeId": "K-okEnJEge0",
+    "currentTitle": "BEHIND THE SCENES 06",
+    "fetchedTitle": "thumb war",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-07",
+    "category": "BEHIND",
+    "number": "07",
+    "youtubeId": "iLYesHLYXo4",
+    "currentTitle": "BEHIND THE SCENES 07",
+    "fetchedTitle": "it's time to ACAI",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-08",
+    "category": "BEHIND",
+    "number": "08",
+    "youtubeId": "ISkAWt8_aqI",
+    "currentTitle": "BEHIND THE SCENES 08",
+    "fetchedTitle": "relay cam LA",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-09",
+    "category": "BEHIND",
+    "number": "09",
+    "youtubeId": "yaDDSlFFG6c",
+    "currentTitle": "BEHIND THE SCENES 09",
+    "fetchedTitle": "pop out lab",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-10",
+    "category": "BEHIND",
+    "number": "10",
+    "youtubeId": "T54nhlkIHTI",
+    "currentTitle": "BEHIND THE SCENES 10",
+    "fetchedTitle": "We're on a JoyRide",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-11",
+    "category": "BEHIND",
+    "number": "11",
+    "youtubeId": "rUNiRM08ryc",
+    "currentTitle": "BEHIND THE SCENES 11",
+    "fetchedTitle": "‘Lullaby’ Official MV Behind | CORTIS (코르티스)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-12",
+    "category": "BEHIND",
+    "number": "12",
+    "youtubeId": "oaoa1noQzBw",
+    "currentTitle": "BEHIND THE SCENES 12",
+    "fetchedTitle": "PYPD NA tour 1",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-13",
+    "category": "BEHIND",
+    "number": "13",
+    "youtubeId": "NeaXPMDpfnc",
+    "currentTitle": "BEHIND THE SCENES 13",
+    "fetchedTitle": "go home",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-14",
+    "category": "BEHIND",
+    "number": "14",
+    "youtubeId": "hhrvUa1wcvU",
+    "currentTitle": "BEHIND THE SCENES 14",
+    "fetchedTitle": "martin pov in barcelona",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-15",
+    "category": "BEHIND",
+    "number": "15",
+    "youtubeId": "kaYrFZGjY7g",
+    "currentTitle": "BEHIND THE SCENES 15",
+    "fetchedTitle": "martin pov in busan TMA",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-16",
+    "category": "BEHIND",
+    "number": "16",
+    "youtubeId": "6J8TxneIPm8",
+    "currentTitle": "BEHIND THE SCENES 16",
+    "fetchedTitle": "terima kasih allo bank",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-17",
+    "category": "BEHIND",
+    "number": "17",
+    "youtubeId": "GsnPafjuXDw",
+    "currentTitle": "BEHIND THE SCENES 17",
+    "fetchedTitle": "Pack Up Bro",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-18",
+    "category": "BEHIND",
+    "number": "18",
+    "youtubeId": "SCYgHBPGEtI",
+    "currentTitle": "BEHIND THE SCENES 18",
+    "fetchedTitle": "‘Blue Lips’ Official MV Behind | CORTIS (코르티스)",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-19",
+    "category": "BEHIND",
+    "number": "19",
+    "youtubeId": "IAS8BhLdpZc",
+    "currentTitle": "BEHIND THE SCENES 19",
+    "fetchedTitle": "[SUB] ㅋㅋㅋㅋ코르티스 ZZZZZㅏ바와 | 돌들의침묵 | 코르티스 (CORTIS) 'REDRED'",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-20",
+    "category": "BEHIND",
+    "number": "20",
+    "youtubeId": "itW9VF1LZxk",
+    "currentTitle": "BEHIND THE SCENES 20",
+    "fetchedTitle": "TPE Roller hockey",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-21",
+    "category": "BEHIND",
+    "number": "21",
+    "youtubeId": "xkNJthSBICs",
+    "currentTitle": "BEHIND THE SCENES 21",
+    "fetchedTitle": "Seollal break",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-22",
+    "category": "BEHIND",
+    "number": "22",
+    "youtubeId": "dl4i3gNRzNI",
+    "currentTitle": "BEHIND THE SCENES 22",
+    "fetchedTitle": "Laundry in LA",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "behind-23",
+    "category": "BEHIND",
+    "number": "23",
+    "youtubeId": "r6vn1ZeYC5I",
+    "currentTitle": "BEHIND THE SCENES 23",
+    "fetchedTitle": "LA album photo shoot",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-01",
+    "category": "STORY",
+    "number": "01",
+    "youtubeId": "CHXKOpj5LRA",
+    "currentTitle": "WHAT WE WANT — TRAILER",
+    "fetchedTitle": "CORTIS (코르티스) Documentary ‘What We Want' Trailer",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-02",
+    "category": "STORY",
+    "number": "02",
+    "youtubeId": "K8z4TvBJP0A",
+    "currentTitle": "BEFORE DEBUT",
+    "fetchedTitle": "before debut",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-03",
+    "category": "STORY",
+    "number": "03",
+    "youtubeId": "o_WOlIxOZDs",
+    "currentTitle": "WHAT WE WANT — EPISODE 02",
+    "fetchedTitle": "CORTIS (코르티스) Documentary ‘What We Want' EPISODE 02",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-04",
+    "category": "STORY",
+    "number": "04",
+    "youtubeId": "VrFDKz2eo0I",
+    "currentTitle": "WHAT WE WANT — EPISODE 03",
+    "fetchedTitle": "CORTIS (코르티스) Documentary ‘What We Want' EPISODE 03",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-05",
+    "category": "STORY",
+    "number": "05",
+    "youtubeId": "W3xhrW33qCI",
+    "currentTitle": "WHAT WE WANT — EPISODE 04",
+    "fetchedTitle": "CORTIS (코르티스) Documentary ‘What We Want' EPISODE 04",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-06",
+    "category": "STORY",
+    "number": "06",
+    "youtubeId": "v1d4Rj1pnMY",
+    "currentTitle": "WHAT WE WANT — EPISODE 01",
+    "fetchedTitle": "CORTIS (코르티스) Documentary ‘What We Want' EPISODE 01",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-07",
+    "category": "STORY",
+    "number": "07",
+    "youtubeId": "k5IG4o5sZUo",
+    "currentTitle": "STORY ARCHIVE 07",
+    "fetchedTitle": "D+100 🥳",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-08",
+    "category": "STORY",
+    "number": "08",
+    "youtubeId": "n4FMWVgHjb0",
+    "currentTitle": "STORY ARCHIVE 08",
+    "fetchedTitle": "‘GO!’ Official MV Commentary",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-09",
+    "category": "STORY",
+    "number": "09",
+    "youtubeId": "i5_O0buoPxI",
+    "currentTitle": "STORY ARCHIVE 09",
+    "fetchedTitle": "time to debut",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-10",
+    "category": "STORY",
+    "number": "10",
+    "youtubeId": "PjCLUZRdmdI",
+    "currentTitle": "STORY ARCHIVE 10",
+    "fetchedTitle": "our first Release Party",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-11",
+    "category": "STORY",
+    "number": "11",
+    "youtubeId": "V8xSTZAvKxg",
+    "currentTitle": "FIRST REACTION",
+    "fetchedTitle": "first reaction",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-12",
+    "category": "STORY",
+    "number": "12",
+    "youtubeId": "kjB6IUj64TA",
+    "currentTitle": "STORY ARCHIVE 12",
+    "fetchedTitle": "2024_신인팀 인터뷰.xlsx",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-13",
+    "category": "STORY",
+    "number": "13",
+    "youtubeId": "U6Mf2CyODVI",
+    "currentTitle": "STORY ARCHIVE 13",
+    "fetchedTitle": "2025_cartalk",
+    "status": "RESOLVED"
+  },
+  {
+    "slug": "story-14",
+    "category": "STORY",
+    "number": "14",
+    "youtubeId": "lKDxp-BWy1M",
+    "currentTitle": "STORY ARCHIVE 14",
+    "fetchedTitle": "Cooking ACAI",
+    "status": "RESOLVED"
+  }
+]

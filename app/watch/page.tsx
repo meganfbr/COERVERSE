@@ -5,8 +5,7 @@ import { ArrowUpRight, Play } from "lucide-react";
 
 import Navbar from "../../components/Navbar";
 import Footer from "../../components/Footer";
-import WatchGallery from "../../components/WatchGallery";
-import WatchVideoArchive from "../../components/WatchVideoArchive";
+import VideoLibrary from "../../components/VideoLibrary";
 
 export default function WatchPage() {
   return (
@@ -57,7 +56,7 @@ export default function WatchPage() {
                 className="group relative block aspect-video overflow-hidden bg-[#292929] lg:col-span-8"
               >
                 <Image
-                  src="/image/cortis/imgv1.jpg"
+                  src="/image/Cortis/imgv1.jpg"
                   alt="CORTIS featured music video"
                   fill
                   priority
@@ -106,9 +105,8 @@ export default function WatchPage() {
           </div>
         </section>
 
-        {/* Filterable Video Cards */}
-        <WatchGallery />
-        <WatchVideoArchive />
+        {/* Video Library: Search, Category Filters, Sort, Grid & Pagination */}
+        <VideoLibrary showBackButton={false} hideHeader={true} />
       </main>
 
       <Footer />

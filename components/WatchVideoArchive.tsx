@@ -15,6 +15,7 @@ const filters: Filter[] = [
   "PERFORMANCE",
   "DANCE",
   "BEHIND",
+  "STORY",
 ];
 
 export default function WatchVideoArchive() {
@@ -22,12 +23,12 @@ export default function WatchVideoArchive() {
     useState<Filter>("ALL");
 
   const filteredVideos =
-    activeFilter === "ALL"
-      ? videos
-      : videos.filter(
-          (video) => video.category === activeFilter
-        );
-
+  activeFilter === "ALL"
+    ? videos.filter((video) => video.category !== "STORY")
+    : videos.filter(
+        (video) => video.category === activeFilter
+      );
+      
   return (
     <section className="bg-[#F5F3EE] px-6 py-16 text-[#111111] md:px-12">
       <div className="mx-auto max-w-[1440px]">
